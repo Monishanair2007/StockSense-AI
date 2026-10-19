@@ -14,7 +14,7 @@
 ---
 
 ## 👤 Author & Engineering Credits
-- **System Architect & Lead Developer:** **Monisha**
+- **System Architect & Lead Developer:** **Monisha **
 - **Role:** Full-Stack AI Engineer & Agentic Systems Architect
 - **Repository:** `Retail Inventory Management & Forecasting (StockSense AI)`
 - **Dataset Integration:** Official Kaggle Retail Store Inventory Dataset (`retail_store_inventory.csv` — 73,100 records across 20 SKUs and 5 stores) + Built-in Synthetic Multi-Scenario Test Suite.
